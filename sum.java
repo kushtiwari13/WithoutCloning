@@ -4,6 +4,8 @@ class sum{
     public static void main(String[] args) {
         int a = 5;
         int b = 5;
-        System.out.println(a+b);
+        int c = 10;
+        System.out.println("3 numbers re there now " + (a+b-c));
+
     }
 }
